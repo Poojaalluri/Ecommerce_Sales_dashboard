@@ -39,7 +39,8 @@ This **Power BI dashboard** analyzes **eCommerce sales data** to track revenue, 
 - **Data Modeling & Visualization**  
 
 ## 📷 Dashboard Preview  
-![Ecommerce Sales Dashboard]
+![Ecommerce Sales Dashboard](https://raw.githubusercontent.com/Poojaalluri/Ecommerce_Sales_dashboard/main/ECOMMERCE_SALES_DASHBOARD.jpg)
+
 
 ## 🚀 How to Use  
 1. Download the `.pbix` file.  
