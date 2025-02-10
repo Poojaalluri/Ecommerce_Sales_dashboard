@@ -47,7 +47,5 @@ This **Power BI dashboard** analyzes **eCommerce sales data** to track revenue, 
 2. Open in **Power BI Desktop**.  
 3. Interact with slicers and charts to analyze trends.  
 
-## 🤝 Connect  
-For feedback or collaboration, feel free to reach out!  
-📧 Email: alluripooja234@gmail.com  
+
 
