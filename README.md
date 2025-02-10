@@ -1,7 +1,8 @@
-# Ecommerce Sales Dashboard – Power BI  
+# Ecommerce Sales Dashboard  
 
 ## 📌 Project Overview  
-This **Power BI dashboard** was created to help **Madhav Store** track and analyze their **online sales across India**. It provides key insights into sales, profit, quantity, and customer behavior using various visualizations.  
+This **Power BI dashboard** analyzes **eCommerce sales data** to track revenue, profit, and customer trends across different regions. The dashboard provides key insights into sales performance and helps in decision-making.  
+
 
 ## 📊 Dashboard Components  
 - **4 Cards:**  
